@@ -8,7 +8,7 @@
 
 </h1>
 <h1 align="center">
-  Stats</h4>
+</h4>
 </h1>
 
 <p align="center">
