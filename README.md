@@ -8,15 +8,10 @@
 
 </h1>
 <h1 align="center">
-</h4>
+STATS</h4>
 </h1>
 
 <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=4k1v&hide_title=true&bg_color=44454d&color=cfeefc&line=80cbc4&point=ffffff&area=false&hide_border=true" width="900"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4k1v&theme=nord_dark"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4k1v&theme=nord_dark" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4k1v&theme=onedark" width="680" />
 </p>
