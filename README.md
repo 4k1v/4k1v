@@ -8,10 +8,10 @@
 
 </h1>
 <h1 align="center">
-STATS</h4>
+</h4>
 </h1>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
